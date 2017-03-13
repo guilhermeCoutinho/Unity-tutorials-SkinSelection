@@ -5,7 +5,7 @@ In this tutorial we are going to:
   
   - Use scriptable objects as an external data model for the skins data;
   
-  - Create a dynammic populated and resized scroll List in Unity using Unity 5.3;
+  - Create a dynammic populated and resizable scroll List in Unity using Unity 5.5;
   
   - Understand the concept of an UI adapter, also used in Androids recycler view;
   
