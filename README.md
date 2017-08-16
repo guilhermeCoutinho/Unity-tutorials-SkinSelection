@@ -1,6 +1,9 @@
 # Unity-tutorials-SkinSelection
 
 Unity tutorial about how to create a dynammic Skin selection system. 
+You can view the final project in the other repository:
+https://github.com/guilhermeCoutinho/Unity-tutorials-SkinSelection-Complete-project
+
 In this tutorial we are going to:
   
   - Use scriptable objects as an external data model for the skins data;
